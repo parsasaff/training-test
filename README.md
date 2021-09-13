@@ -8,6 +8,8 @@ My learning repository :)
 - apple
 - banana
 - kiwi
+-cherries
+-peaches
 
 how to link
 [links](http://nceas.ucsb.edu)
