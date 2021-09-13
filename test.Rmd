@@ -14,3 +14,8 @@ This is an R Markdown document.
 3+3
 ```
 
+
+new markdown example 
+```{r}
+x<- 2-9
+```
